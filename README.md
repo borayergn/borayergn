@@ -1,10 +1,12 @@
 ### Hi there I am Boray👋
 
-▪I'm a software engineering student at Atılım University .
+▪ I'm a software engineering student at Atılım University .
 
-▪Currently looking for internships.
+▪ Currently looking for internships.
 
-▪Completed Coursework: Advanced Programming, Data Structures.
+▪ Completed Coursework: Advanced Programming, Data Structures.
 
-▪I am proficient with: C++🔷, Python🐍 and C🎗.
+▪ I'm proficient with: C++🔷, Python🐍 and C🎗.
+
+▪ I'm interested in Machine Learning, Computer Vision, Software Development and Software Engineering.
 

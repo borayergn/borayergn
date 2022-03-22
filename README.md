@@ -8,5 +8,5 @@
 
 ▪ I'm proficient with: C++🔷, Python🐍 and C🎗.
 
-▪ I'm interested in Machine Learning, Computer Vision, Software Development and Software Engineering.
+▪ I'm interested in Machine Learning, Computer Vision, Software Development , Data Science and Software Engineering.
 

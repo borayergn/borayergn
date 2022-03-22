@@ -1,6 +1,6 @@
 ### Hi there I am Boray👋
 
-▪ I'm a Software Engineering student at Atılım University .
+▪ I'm a Software Engineering student at Atılım University and Information Management Systems student at Anadolu University.
 
 ▪ Currently looking for internships.
 

@@ -2,11 +2,9 @@
 
 ▪ I'm a Software Engineering student at Atılım University and Information Management Systems student at Anadolu University.
 
-▪ Currently looking for internships.
-
-▪ Completed Coursework: Advanced Programming, Data Structures.
+▪ Completed Coursework: Advanced Programming, Data Structures, Algorithms, Software Engineering Courses(Design, analysis, testing...).
 
 ▪ I'm proficient with: C++🔷, Python🐍 and C🎗.
 
-▪ I'm interested in Machine Learning, Computer Vision, Software Development , Data Science and Software Engineering.
+▪ I'm interested in Machine Learning, NLP, Software Development , Data Science and Software Engineering.
 
